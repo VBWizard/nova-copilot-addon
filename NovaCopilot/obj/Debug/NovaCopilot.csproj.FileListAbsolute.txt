@@ -1,0 +1,11 @@
+C:\Users\VbWiz\source\repos\NovaCopilot\NovaCopilot\obj\Debug\NovaCopilot.csproj.AssemblyReference.cache
+C:\Users\VbWiz\source\repos\NovaCopilot\NovaCopilot\obj\Debug\NovaCopilot.Properties.Resources.resources
+C:\Users\VbWiz\source\repos\NovaCopilot\NovaCopilot\obj\Debug\NovaCopilot.csproj.GenerateResource.cache
+C:\Users\VbWiz\source\repos\NovaCopilot\NovaCopilot\obj\Debug\NovaCopilot.csproj.CoreCompileInputs.cache
+C:\Users\VbWiz\source\repos\NovaCopilot\NovaCopilot\bin\Debug\NovaCopilot.exe.config
+C:\Users\VbWiz\source\repos\NovaCopilot\NovaCopilot\bin\Debug\NovaCopilot.exe
+C:\Users\VbWiz\source\repos\NovaCopilot\NovaCopilot\bin\Debug\NovaCopilot.pdb
+C:\Users\VbWiz\source\repos\NovaCopilot\NovaCopilot\bin\Debug\Microsoft.FlightSimulator.SimConnect.dll
+C:\Users\VbWiz\source\repos\NovaCopilot\NovaCopilot\obj\Debug\NovaCopi.A5343D13.Up2Date
+C:\Users\VbWiz\source\repos\NovaCopilot\NovaCopilot\obj\Debug\NovaCopilot.exe
+C:\Users\VbWiz\source\repos\NovaCopilot\NovaCopilot\obj\Debug\NovaCopilot.pdb
